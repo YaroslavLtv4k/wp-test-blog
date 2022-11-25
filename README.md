@@ -9,7 +9,8 @@ Here i used such skills:
 - pagination
 - custom types of posts (register post types) and logic "if else" on files
 - custom taxonomies for custom types of posts
-
+- displaying custom post types in different ways (sidebar, specific content for them, different view (showing data, another text)
+ 
 - many theme supports functions (logo, setting image size, menu...)
 - Breadcrumbs code isn't mine (i also can make my own)
 
